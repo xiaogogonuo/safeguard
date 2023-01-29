@@ -1,0 +1,21 @@
+# 发件人
+from: "陆佳伟<xiaogogonuo@163.com>"
+
+# 收件人
+to:
+  - "xiaogogonuo@163.com"
+  - "1670187131@qq.com"
+
+# 抄送人
+cc:
+  - "maxwell_lu@icloud.com"
+
+# 邮箱服务
+service:
+  host: "smtp.163.com"
+  port: 25
+
+# 邮箱认证
+auth:
+  username: "xiaogogonuo@163.com"
+  password: "JDAOREDDCXYMAXXQ"
